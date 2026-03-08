@@ -1,7 +1,7 @@
 <div align="center">
+<img width="100%" height="180" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=180&section=header&text=Welcome%20to%20My%20Digital%20Universe&fontSize=40&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Where%20Hardware%20Meets%20Software&descAlignY=55&descSize=18"/>
 
-<img width="100%" height="180" src="https://capsule-render.vercel.app/api?type=waving&color=0:004F90,100:000000&height=180&section=header&text=Mathujan%20Shanmugavadivel&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=%20ENTC%20undergraduate%20|%20UoM%20&descAlignY=55&descSize=18"/>
-
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=35&pause=1000&color=00D9FF&center=true&vCenter=true&width=800&height=60&lines=Hi+there!+I'm+Mathujan+%F0%9F%91%8B;ENTC+Undergraduate+@+UoM" alt="Typing SVG" />
 </div>
 
 ---
@@ -10,10 +10,10 @@
 
 <table>
 <tr>
-<td width="45%">
+<td width="45%" >
 
-## 👨‍💻 About Me
-Enthusiastic **Electronic and Telecommunication Engineering undergraduate** with a strong passion for embedded systems, FPGA design, and hardware–software integration.
+## 🚀 About Me
+🎓 Enthusiastic **ENTC undergraduate** with a strong passion for embedded systems, FPGA design, and hardware–software integration.
 
 Driven by curiosity and innovation, I possess a solid academic foundation along with hands-on experience in digital logic, PCB development, and programming.
 
@@ -22,7 +22,7 @@ Driven by curiosity and innovation, I possess a solid academic foundation along 
 
 <td width="25%" align="center">
 
-## 🔬 Core Interests
+## 🎯 Passionate About
 
 Embedded Systems
 
@@ -36,8 +36,8 @@ AI/ML
 </td>
 </tr>
 </table>
+<div align="center">
 
-</div>
 
 ---
 
@@ -48,24 +48,21 @@ AI/ML
 ### Programming Languages
 <img src="https://skillicons.dev/icons?i=c,python,rust,java" />
 
+**Verilog HDL**
+
 ### Embedded & Hardware Platforms
 <img src="https://skillicons.dev/icons?i=arduino,raspberrypi,linux" />
 
-**AVR Microcontrollers • ESP32 • ARM Cortex-M**
+**Zynq UltraScale+ MPSoC • ARM-based Systems**
 
-### FPGA & Digital Design
-
-Verilog HDL • Xilinx Vivado • Quartus • AXI Interfaces • Digital System Design
 
 ### Tools & Development
 
-<img src="https://skillicons.dev/icons?i=vscode,matlab,git,github,tensorflow" />
+<img src="https://skillicons.dev/icons?i=vscode,matlab,github,gitlab" />
 
-Altium Designer • KiCad • EasyEDA • SolidWorks • Node-RED • MQTT
+Xilinx Vivado • Vitis • Altium Designer • KiCad  • SolidWorks • Node-RED • MQTT
 
 </div>
-
----
 
 
 # 🌐 Connect With Me
