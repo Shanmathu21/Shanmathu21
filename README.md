@@ -73,67 +73,6 @@ Altium Designer • KiCad • EasyEDA • SolidWorks • Node-RED • MQTT
 
 ---
 
-# 📂 Featured Projects
-
-### 🔧 Capacitive Torque Sensor
-Designed a **capacitive torque sensing system** using AVR microcontrollers and capacitance measurement ICs.  
-Implemented **SPI communication, real-time data acquisition, and signal processing** for accurate torque estimation.
-
-🔗 https://github.com/Shanmathu21/Capacitive-Torque-Sensor
-
----
-
-### ❤️ Cardiac Arrest Prediction Wearable
-Developed a **low-cost wearable device** that predicts cardiac arrest risk using **HRV extracted from PPG signals**.
-
-Features:
-
-- MAX30102 PPG sensing
-- Signal processing pipeline
-- Neural network prediction model
-- TensorFlow implementation with >96% accuracy
-
----
-
-### 💊 Smart Medibox (IoT)
-An **ESP32-based smart medication monitoring system**.
-
-Features:
-
-- Environmental sensing (Temperature, Light)
-- MQTT communication
-- Node-RED dashboard
-- Smart medication reminders
-
-🔗 https://github.com/Shanmathu21/Medi_Box-Smart-IoT-Medication-Monitoring
-
----
-
-### 💪 EMG-Based Muscle Cramp Detector
-Designed a **complete bio-signal acquisition pipeline**:
-
-- Analog signal conditioning circuit
-- Custom PCB layout
-- ESP32 signal transmission
-- IoT-based monitoring system
-
-🔗 https://github.com/Shanmathu21/STEM
-
----
-
-### 🔌 FPGA UART Implementation
-Implemented a **fully functional UART transmitter and receiver** using **Verilog HDL** and deployed it on FPGA hardware.
-
-Features:
-
-- Baud rate generator
-- Serial communication protocol
-- Hardware validation on FPGA
-
-🔗 https://github.com/Shanmathu21/FPGA-UART-Implementations
-
----
-
 
 # 🌐 Connect With Me
 
@@ -143,7 +82,7 @@ Features:
 <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="mailto:mathujans.22@uom.lk">
+<a href="mailto:shanmugavadivelmathujan@gmail.com">
 <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
