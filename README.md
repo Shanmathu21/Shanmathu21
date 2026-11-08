@@ -48,7 +48,6 @@ AI/ML
 ### Programming Languages
 <img src="https://skillicons.dev/icons?i=c,python,rust,java" />
 
-**Verilog HDL**
 
 ### Embedded & Hardware Platforms
 <img src="https://skillicons.dev/icons?i=arduino,raspberrypi,linux" />
