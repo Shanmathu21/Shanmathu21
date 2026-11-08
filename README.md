@@ -3,7 +3,8 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=180&section=header&text=Welcome%20to%20My%20Digital%20Universe&fontSize=40&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Where%20Hardware%20Meets%20Software&descAlignY=55&descSize=18"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=32&pause=1000&color=00D9FF&center=true&vCenter=true&width=800&height=60&lines=Hi+there!+I'm+Mathujan+%F0%9F%91%8B;ENTC+Undergraduate+%40+UoM;Embedded+Systems+%7C+FPGA+%7C+AI%2FML" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=35&pause=1000&color=00D9FF&center=true&vCenter=true&width=800&height=60&lines=Hi+there!+I'm+Mathujan+%F0%9F%91%8B;ENTC+Undergraduate+@+UoM" alt="Typing SVG" />
+</div>
 
 </div>
 
